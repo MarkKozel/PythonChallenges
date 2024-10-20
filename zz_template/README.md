@@ -3,6 +3,13 @@
 
 ## Objectives
 
+## Instructions
+1.
+
+## Upload Your Solution for others to see
+1. Move your solution into the ```submissions``` folder
+1. Push to Github
+
 > Gotchas
 
 <!-- Images -->
@@ -13,5 +20,3 @@
 
 <!-- Youtube Videos -->
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ak7WGbFvMp8/0.jpg)](https://www.youtube.com/watch?v=Ak7WGbFvMp8)
-
-
