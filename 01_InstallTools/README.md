@@ -23,3 +23,5 @@ Hello, World! is a classic *first program* to test that the tools and all instal
 [![Hello, World! from Socratica](https://img.youtube.com/vi/EbqFNY35dj7SrHws/0.jpg)](https://www.youtube.com/embed/KOdfpbnWLVo?si=EbqFNY35dj7SrHws&amp;start=88)
 
 > You might need to use ```python3 helloworld.py``` to run the program
+
+**No submissions for this challenge**
